@@ -11,6 +11,8 @@
 
 img {
     width: 100vw;
+    margin-bottom: -3px;
+    
 }
 
 a {
@@ -19,8 +21,9 @@ a {
     font-weight: bolder;
     color: white;
     text-align: center;
-    padding: 20px;
+    padding: 22px;
     text-decoration: none;
+    
 }
 
 a:hover {
